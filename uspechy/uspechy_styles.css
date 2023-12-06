@@ -1,0 +1,36 @@
+body {
+    background-color: white;
+    margin: 5px;
+    font-size: 17px;
+    font-family: Calibri, serif;
+}
+
+main {
+    padding-right: 26%;
+    padding-left: 26%;
+}
+
+.h1_Lesley {
+    text-align: center;
+    color: black;
+    padding-bottom: 20px;
+}
+
+.h2_Lesley3 {
+    text-align: left;
+}
+
+
+.achievements {
+    display: flex;
+    flex-direction: column;
+    /*width: 100%;*/
+    border: solid 2px black;
+    width: 862px;
+    padding: 20px;
+    border-radius: 12px;
+}
+
+.achievements h2 {
+    margin: 1%;
+}
